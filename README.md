@@ -1,6 +1,5 @@
 # 10 React Hooks under 100 sec.  
-@learned by fireship.io
-U+000A
+@learned by fireship.io <br />
 lets learn 9 builtin react hooks with a bonus of custom hook. Amazing tutorial just for practice purposes.
 Big shoutout, to vercel, tailwindcss and Nextjs. (for the support!) 
 
