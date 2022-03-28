@@ -1,6 +1,6 @@
-# Next.js + Tailwind CSS Example
-
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# 10 React Hooks under 100 sec.  @learned by fireship
+lets learn 9 builtin react hooks with a bonus of custom hook. Amazing tutorial just for practice purposes.
+Big shoutout, to vercel, tailwindcss and Nextjs. (for the support!) 
 
 ## Deploy Link
 Check it out here!
@@ -8,12 +8,12 @@ https://learn-react-hooks.vercel.app/
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+for running on local .env
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+npm run dev
 # or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+yarn run dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Deployed to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
