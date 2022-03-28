@@ -4,7 +4,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 ## Deploy Link
 
-[![Deploy with vercel](https://learn-react-hooks.vercel.app/)](https://learn-react-hooks.vercel.app/)
+[Deploy with vercel](https://learn-react-hooks.vercel.app/)
 
 ## How to use
 
