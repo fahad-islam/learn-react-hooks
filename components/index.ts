@@ -8,6 +8,7 @@ import MemoryHook from "./MemoryHook";
 import ReferenceHook from "./ReferenceHook";
 import StateHook from "./StateHook";
 import ReducerHook from "./ReducerHook";
+import Navbar from './Navbar';
 
 
 export {
@@ -20,5 +21,6 @@ export {
     MemoryHook,
     ReferenceHook,
     StateHook,
-    ReducerHook
+    ReducerHook,
+    Navbar
 }
